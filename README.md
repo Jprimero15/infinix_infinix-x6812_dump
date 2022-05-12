@@ -1,0 +1,18 @@
+## sys_tssi_64_infinix-user 11 RP1A.200720.011 221389 release-keys
+- Manufacturer: infinix mobility limited
+- Platform: mt6768
+- Codename: Infinix-X6812
+- Brand: Infinix
+- Flavor: sys_tssi_64_infinix-user
+- Release Version: 11
+- Id: RP1A.200720.011
+- Incremental: 220110V703
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Infinix/X6812-GL/Infinix-X6812:11/RP1A.200720.011/220110V569:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_infinix-user-11-RP1A.200720.011-221389-release-keys
+- Repo: infinix_infinix-x6812_dump
